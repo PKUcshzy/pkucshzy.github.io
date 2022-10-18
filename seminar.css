@@ -1,0 +1,8 @@
+#layout-menu a.current:link, #layout-menu a.current:visited {
+	color: #000205;
+	border-bottom: 1px gray solid;
+}
+#layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
+	color: #527bbd;
+	text-decoration: none;
+}
